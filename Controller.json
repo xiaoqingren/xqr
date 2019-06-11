@@ -4,10 +4,11 @@
 			"zb":"0",
 			"yb":"0",
 			"gk":"0",
-			"controller": "0"
+			"controller": "0",
+			"url":""
 		}],
 		"update": [{
-			"gxnr":" 1.修复了不能播放http视频的bug \n 2.修复了首页公告点击",
+			"gxnr":"",
 			"version":"1.0",
 			"url": "https://www.lanzous.com/i4e5lji",
 			"durl": ""
