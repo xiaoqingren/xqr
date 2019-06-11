@@ -1,0 +1,47 @@
+{
+	"config": {
+		"ad1": [{
+			"title": "首页广告",
+			"url": "https://www.lanzous.com/i4dpw1a",
+			"imgurl": "https://pics6.baidu.com/feed/dcc451da81cb39db2d6e6a0cce04e020aa1830d0.jpeg?token=93051991ff9d915534c62582be36f576&s=63D12B669D1488CE5ED1FC9303007091"
+		}],
+		"ad2": [{
+				"title": "广告1",
+				"url": "https://www.baidu.com",
+				"imgurl": "http://img4.imgtn.bdimg.com/it/u=2845508695,2828475661&fm=26&gp=0.jpg"
+			},
+			{
+				"title": "广告2",
+				"url": "https://www.baidu.com",
+				"imgurl": "http://img4.imgtn.bdimg.com/it/u=2845508695,2828475661&fm=26&gp=0.jpg"
+			},
+			{
+				"title": "广告3",
+				"url": "https://www.baidu.com",
+				"imgurl": "http://img4.imgtn.bdimg.com/it/u=2845508695,2828475661&fm=26&gp=0.jpg"
+			}
+		],
+		"data": [{
+			"qq": "3083737246",
+			"qun": "546657030",
+			"qqkey": ""
+		}],
+		"share": [{
+			"fxbt": "祥云盒子",
+			"fxnr": "你的青春荷尔蒙",
+			"fxdz": "https://www.lanzous.com/b726246",
+			"fxtb": "https://cdn.icon-icons.com/icons2/421/PNG/128/Cloud_41734.png",
+			"fxgq": "http://m10.music.126.net/20190530030934/536ea7fd7caa089fd5be212c503fcef6/ymusic/f7cf/b342/407f/8cfe8ee467b6ca8d501adfad01a3e165.mp3"
+		}],
+		"notice": [{
+			"gdgg": "这是一条滚动公告",
+			"dlgg": "这是一条登录公告"
+		}],
+		"backup": [{
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": ""
+		}]
+	}
+}
