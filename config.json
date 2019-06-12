@@ -3,21 +3,21 @@
 		"ad1": [{
 			"title": "首页广告",
 			"url": "https://www.lanzous.com/b776744",
-			"imgurl": "https://pics6.baidu.com/feed/dcc451da81cb39db2d6e6a0cce04e020aa1830d0.jpeg?token=93051991ff9d915534c62582be36f576&s=63D12B669D1488CE5ED1FC9303007091"
+			"imgurl": "http://tva1.sinaimg.cn/large/0060lm7Tly1g3yw19i40nj306c08w74c.jpg"
 		}],
 		"ad2": [{
 				"title": "广告1",
-				"url": "https://www.baidu.com",
+				"url": "https://www.lanzous.com/b776744",
 				"imgurl": "http://img4.imgtn.bdimg.com/it/u=2845508695,2828475661&fm=26&gp=0.jpg"
 			},
 			{
 				"title": "广告2",
-				"url": "https://www.baidu.com",
+				"url": "https://www.lanzous.com/b776744",
 				"imgurl": "http://img4.imgtn.bdimg.com/it/u=2845508695,2828475661&fm=26&gp=0.jpg"
 			},
 			{
 				"title": "广告3",
-				"url": "https://www.baidu.com",
+				"url": "https://www.lanzous.com/b776744",
 				"imgurl": "http://img4.imgtn.bdimg.com/it/u=2845508695,2828475661&fm=26&gp=0.jpg"
 			}
 		],
